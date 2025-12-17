@@ -115,10 +115,9 @@ REFRESH_TOKEN_SECRET=your_refresh_token_secret
 npm install
 npm run dev
 
-Server starts at:
 
+Server runs locally at:
 http://localhost:8000
-
 
 ---
 
